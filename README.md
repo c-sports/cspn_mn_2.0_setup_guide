@@ -8,7 +8,7 @@
 
 ## Open the CSPN Masternode Setup Tool (Setup Tool)
 
-1. Visit https://mntool.crypto-sports.io/
+1. Visit https://mntool.crypto-sports.io/ (right click -> open new tab)
 
 ***
 
@@ -54,7 +54,7 @@ Tip: You can always reuse the Segwit Payout Address for future Masternode Instan
 
 ## Setting up the VPS
 
-1. Follow the steps provided in the VPS Setup Guide: https://gitlab.com/snippets/1974167
+1. Follow the steps provided in the VPS Setup Guide: https://gitlab.com/snippets/1974167 (right click -> open new tab)
 
 2. Put the Server IP, Ports and BLS Public Key into the corresponding fields of the Setup Tool
 
