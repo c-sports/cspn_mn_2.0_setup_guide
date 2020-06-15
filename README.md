@@ -50,6 +50,10 @@ Tip: You can always reuse the Segwit Payout Address for future Masternode Instan
 
 5. Put the txid and index into the corresponding fields of the Setup Tool.
 
+6. Go to the "Send"-Tab and click on "Inputs..." under Coin Control Feautures.
+
+7. Switch to "List mode", right click the collateral you just sent and select "Lock unspent" (prevents spending of the collateral when sending coins, e.g setting up multiple Masternodes).
+
 ***
 
 ## Setting up the VPS
@@ -74,12 +78,4 @@ Done.
 
 ## Multi Masternode Setup
 
-When setting up multiple Masternodes, follow these steps to avoid Collaterals being destroyed.
-
-1. Send a Masternode Collateral like shown above.
-
-2. When you got your txid and index, go to the "Send"-Tab and click on "Inputs..." under Coin Control Feautures.
-
-3. Switch to "List mode", right click the collateral you just sent and select "Lock unspent".
-
-4. Now you can proceed with sending your next Collateral.
+Repeat the steps above while creating new Addresses (MN2, O2, (Payout Address can be reused)) and simply run the Install Script from the VPS Setup Guide again.
