@@ -1,4 +1,4 @@
-# CSPN Masternode 2.0 Setup Guide
+# CSPN Masternode 2.x Setup Guide
 
 ## Preparing your wallet
 
